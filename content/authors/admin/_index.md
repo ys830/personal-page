@@ -1,6 +1,7 @@
 ---
-title: 易斯
+title: Si Yi
 role: Master Student
+avatar_filename: qwq.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
