@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://github.com/ys830
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
