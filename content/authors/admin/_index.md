@@ -4,9 +4,9 @@ role: Master Student
 avatar_filename: ""
 bio: My research interests include ISP, camera fusion, deep learning and so on.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - ISP
+  - Deep learning
+  - multi-camera fusion
 social:
   - icon: envelope
     icon_pack: fas
