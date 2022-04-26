@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: si.yi@mail.nankai.edu.cn
+    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/ys830
