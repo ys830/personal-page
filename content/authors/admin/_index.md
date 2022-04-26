@@ -33,5 +33,3 @@ superuser: true
 highlight_name: true
 ---
 Diving in the ocean of knowledge.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
