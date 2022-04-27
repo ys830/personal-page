@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: si.yi#mail.nankai.edu.cn (replace # with @)
+  email: si.yi#mail.nankai.edu.cn (replace \# with @)
   address:
     city: Nanjing
     region: Jiangsu
