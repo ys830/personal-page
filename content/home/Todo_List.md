@@ -12,7 +12,7 @@ design:
 ---
 
 - [x] A paper
-- [] Live House & Music Festival & Concert
-- [] Graduation trip
-- [] Have Kpop lessons  
+- [ ] Live House & Music Festival & Concert
+- [ ] Graduation trip
+- [ ] Have Kpop lessons  
 
