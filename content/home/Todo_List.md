@@ -1,27 +1,21 @@
 ---
-# An instance of the Contact widget.
-widget: contact
-
-# This file represents a page section.
+widget: blank
 headless: true
 
-# Order that this section appears on the page.
-weight: 130
-
-title: Contact
+# ... Put Your Section Options Here (title etc.) ...
+title: Todo List
 subtitle:
-
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+weight: 30  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 ---
+
+- [x] A paper
+
+- [] Live House & Music Festival & Concert
+
+- [] Graduation trip
+
+- [] Have Kpop lessons  
+
