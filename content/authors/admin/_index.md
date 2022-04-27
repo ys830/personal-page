@@ -25,7 +25,7 @@ education:
     - course: BSc in Electronic Information Science and Technology
       institution: Nankai University
       year: 2018
-email: ""
+email: si.yi@mail.nankai.edu.cn
 superuser: true
 highlight_name: true
 ---
