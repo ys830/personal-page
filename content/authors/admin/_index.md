@@ -6,7 +6,8 @@ bio: ""
 interests:
   - Game
   - Rap
-  - Kpop，Animation
+  - Kpop
+  - Animation
 social:
   - icon: envelope
     icon_pack: fas
