@@ -1,18 +1,19 @@
 ---
 widget: blank
+widget_id: RECENT-POSTS
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 30
 title: Todo List
-subtitle:
-weight: 30  # section position on page
+subtitle: null
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: "2"
 ---
 
-- [x] A paper
-- [ ] Live House & Music Festival & Concert
-- [ ] Graduation trip
-- [ ] Have Kpop lessons  
+- [ ] A paper
+- [ ] Live House & Music Festival & Concert & talk show 
+- [x] Graduation trip
+- [x] Learning Kpop 
+- [x] Learning skateboard
+- [ ] A project independently
+  
 
