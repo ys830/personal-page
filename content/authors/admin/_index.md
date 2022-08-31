@@ -4,9 +4,9 @@ role: Master Student
 avatar_filename: ""
 bio: ""
 interests:
-  - Coding (keep learning)
-  - Rap (dream of being a rapper)
-  - Kpop
+  - Game
+  - Rap
+  - Kpop，Animation
 social:
   - icon: envelope
     icon_pack: fas
