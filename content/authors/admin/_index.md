@@ -2,17 +2,15 @@
 title: Si Yi
 role: Master Student
 avatar_filename: ""
-bio: My research interests include ISP, camera fusion, deep learning and so on.
-interests: 
-  - Coding
-    (keep learning)
-  - Rap
-    (dream of being a rapper)
+bio: ""
+interests:
+  - Coding (keep learning)
+  - Rap (dream of being a rapper)
   - Kpop
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact'
+    link: "#contact"
   - icon: github
     icon_pack: fab
     link: https://github.com/ys830
